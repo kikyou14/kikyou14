@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 28 mins    ███████████▓░░░░░░░░░░░░░   46.05 %
-Rust         1 hr 7 mins     █████████░░░░░░░░░░░░░░░░   35.46 %
-Bash         26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Markdown     1 hr 28 mins    ███████████▒░░░░░░░░░░░░░   45.95 %
+Rust         1 hr 7 mins     █████████░░░░░░░░░░░░░░░░   35.38 %
+Bash         26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
 Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
