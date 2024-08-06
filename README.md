@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Astro         6 hrs 38 mins   █████████░░░░░░░░░░░░░░░░   36.14 %
-TypeScript    4 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
-JavaScript    2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Markdown      55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-SQL           47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Astro        5 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   35.77 %
+TypeScript   3 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+JavaScript   2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+Markdown     55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Rust         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
